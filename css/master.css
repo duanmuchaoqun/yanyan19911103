@@ -1,0 +1,47 @@
+
+/*==============*/
+.jigou-tree-lists{
+    width: 100%;
+    padding:10px 0 30px 0;
+}
+.li-second{
+    margin-top: 3px;
+}
+.li-fist .li-fonts{
+    font-size: 16px;
+    color:#333;
+}
+.li-fist .li-fonts:hover,.li-fist .li-fonts:focus{
+    font-size: 16px;
+    color:#a6282f;
+}
+
+.icon-right{
+    font-size: 12px;
+    color:#ccc;
+    padding:3px;
+}
+.tree-second{
+    /*display: none;*/
+    padding-left: 40px;
+}
+.second-icon-right{
+    font-size: 12px;
+    color:#ccc;
+    padding:3px;
+    margin-left: -22px;
+}
+.tree-third{
+    /*display: none;*/
+    padding-left: 20px;
+}
+.tree-icon-right{
+    font-size: 12px;
+    color:#ccc;
+    padding:3px;
+    margin-left: -22px;
+}
+.right-icon-active::before{
+    content: "\e080";
+}
+/*=====================*/
